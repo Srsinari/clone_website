@@ -1,10 +1,17 @@
 {
   "files": {
-    "main.css": "/clone_website/static/css/main.afb94eca.css",
-    "main.js": "/clone_website/static/js/main.c9700fe5.js",
-    "static/js/787.996fc4fc.chunk.js": "/clone_website/static/js/787.996fc4fc.chunk.js",
+    "main.css": "/clone_website/static/css/main.3fd3299f.css",
+    "main.js": "/clone_website/static/js/main.8ea04afc.js",
+    "static/js/787.fb771931.chunk.js": "/clone_website/static/js/787.fb771931.chunk.js",
     "static/media/image.jpg": "/clone_website/static/media/image.d5e95f923e7b8043be40.jpg",
+    "static/media/6.jpg": "/clone_website/static/media/6.e03a2f9c088537e9582d.jpg",
+    "static/media/1.jpg": "/clone_website/static/media/1.c863123fbf2eae66502d.jpg",
+    "static/media/7.jpg": "/clone_website/static/media/7.a85f792fa8ad43ba174d.jpg",
+    "static/media/3.jpg": "/clone_website/static/media/3.0787e21264d01c18194e.jpg",
+    "static/media/2.jpg": "/clone_website/static/media/2.173280798a099259389e.jpg",
     "static/media/proj6.png": "/clone_website/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/5.jpg": "/clone_website/static/media/5.8165c083edf0e5a3d110.jpg",
+    "static/media/4.jpg": "/clone_website/static/media/4.bd93b4284e1a04fa8265.jpg",
     "static/media/proj5.jpg": "/clone_website/static/media/proj5.0648813998893b8c53d0.jpg",
     "static/media/proj3.webp": "/clone_website/static/media/proj3.419d7d3eb4e124126660.webp",
     "static/media/proj2.jpg": "/clone_website/static/media/proj2.496e4d289eaa0f409ab8.jpg",
@@ -12,12 +19,12 @@
     "static/media/logo3.png": "/clone_website/static/media/logo3.5f0aec736b8c2ce4b0e5.png",
     "static/media/proj4.webp": "/clone_website/static/media/proj4.21aa3100d2e1859f6029.webp",
     "index.html": "/clone_website/index.html",
-    "main.afb94eca.css.map": "/clone_website/static/css/main.afb94eca.css.map",
-    "main.c9700fe5.js.map": "/clone_website/static/js/main.c9700fe5.js.map",
-    "787.996fc4fc.chunk.js.map": "/clone_website/static/js/787.996fc4fc.chunk.js.map"
+    "main.3fd3299f.css.map": "/clone_website/static/css/main.3fd3299f.css.map",
+    "main.8ea04afc.js.map": "/clone_website/static/js/main.8ea04afc.js.map",
+    "787.fb771931.chunk.js.map": "/clone_website/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afb94eca.css",
-    "static/js/main.c9700fe5.js"
+    "static/css/main.3fd3299f.css",
+    "static/js/main.8ea04afc.js"
   ]
 }
